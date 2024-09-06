@@ -6,8 +6,8 @@
     margin-bottom: 15px
 }
 img{
-    height: 500px;
-    width:600 px;
+    height: 300px;
+    width:400 px;
     border: 1px solid coral;
     padding: 30px
 }
@@ -24,3 +24,4 @@ ul{
 ol{
     color: chocolate;  
 }
+
