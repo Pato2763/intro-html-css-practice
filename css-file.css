@@ -3,5 +3,6 @@
 }
 img{
     height: 500px;
-    width:600 px
+    width:600 px;
+    border: 1px solid coral
 }
